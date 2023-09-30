@@ -1,1 +1,1 @@
-# This is homepage of woofaround.
+# This is the homepage of woofaround.
